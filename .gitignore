@@ -2,4 +2,6 @@
 .ipynb_checkpoints
 *.json
 *.csv
-outputs/
+*.mp4
+*.mov
+*.gif
